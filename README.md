@@ -8,11 +8,11 @@
 
 - boostrap5
 
-##Website Preview:
+## Website Preview:
 
 Desktop Design:
 <img
-src="design/desktop-preview.jpg"
+src="design/desktop-design.jpg"
 alt="Alt Text"
 title="desktop-view"
 style="display: inline-block; margin: 0 auto; max-width: 30px"
