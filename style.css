@@ -53,7 +53,8 @@ button:hover{
 }
 .div-1-a-p{
   font-size: 15px;
-  line-height: 1.5rem;
+  line-height: 1.7rem;
+  margin-top: 1rem;
   /* text-align: justify; */
   width: 100%;
   color: var(--dark-grayish-blue);
@@ -108,7 +109,7 @@ h3{
   }
   .div-1-h1{
     font-weight: 800;
-    font-size: 50px;
+    font-size: 60px;
     width: 100%;
   }
 }
